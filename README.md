@@ -1,4 +1,4 @@
-# 👋 Sobre Mim
+# 🇧🇷 Sobre Mim 
 
 Tenho 22 anos e sou apaixonado por jogos, animes, edição de vídeo e programação.  
 Atualmente moro em Minas Gerais, mas nasci no Rio de Janeiro 🌴
@@ -9,7 +9,7 @@ Atualmente moro em Minas Gerais, mas nasci no Rio de Janeiro 🌴
 
 ---
 
-# 👋 About Me
+# 🇺🇸 About Me
 
 I'm 22 years old and passionate about games, anime, video editing, and programming.  
 Currently living in Minas Gerais, Brazil, and originally from Rio de Janeiro 🌴
