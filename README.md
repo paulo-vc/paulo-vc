@@ -20,4 +20,4 @@ Currently living in Minas Gerais, Brazil, and originally from Rio de Janeiro ðŸŒ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-vc&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,c,cpp,eclipse,git,github,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,c,cpp,eclipse,git,github,java,py,html,css,js,react)](https://skillicons.dev)
